@@ -57,7 +57,7 @@ A aplicação foi estruturada com base em **DDD (Domain Driven Design)**. No con
 
 2 **Acessar o diretório do projeto**:
 ```bash
-  cd seu-projeto
+  cd apirestfullci3
 ```
 
 3 **Subir os containers com Docker Compose:**
