@@ -52,7 +52,7 @@ A aplicação foi estruturada com base em **DDD (Domain Driven Design)**. No con
 
 1. **Clonar o repositório**:
   ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/riquee/apirestfullci3
    ```
 
 2 **Acessar o diretório do projeto**:
